@@ -18,8 +18,8 @@ to drive business decisions and create innovative solutions.
 - Enhancing my skills in generative AI and large language models
 
 ### 📫 How to reach me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sauravpk/))
-[![Email](mailto:sp7818@nyu.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sauravpk)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sp7818@nyu.edu)
 
 ### 🌟 Featured Projects
 - [Data-Driven Insights into Consumer Behavior](link_to_repo)
