@@ -11,15 +11,32 @@ Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate 
 
 ## 🛠️ Skills & Tools
 
+## 🛠️ Technical Skills
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=Python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-FF6F00?style=flat&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-4DB6AC?style=flat&logo=NLP&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+![GenAI](https://img.shields.io/badge/-GenAI-7B68EE?style=flat&logoColor=white)
+![RapidMiner](https://img.shields.io/badge/-RapidMiner-3399FF?style=flat&logoColor=white)
+![DataRobot](https://img.shields.io/badge/-DataRobot-13B5EA?style=flat&logoColor=white)
+
+## 💼 Business Skills
+
+![Project Management](https://img.shields.io/badge/-Project%20Management-0078D7?style=flat&logoColor=white)
+![Strategic Thinking](https://img.shields.io/badge/-Strategic%20Thinking-2C3E50?style=flat&logoColor=white)
+![Marketing](https://img.shields.io/badge/-Marketing-FF6B6B?style=flat&logoColor=white)
+![Team Management](https://img.shields.io/badge/-Team%20Management-4CAF50?style=flat&logoColor=white)
+![Agile Management](https://img.shields.io/badge/-Agile%20Management-009688?style=flat&logoColor=white)
+![Gen AI](https://img.shields.io/badge/-Gen%20AI-7B68EE?style=flat&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -42,13 +59,6 @@ Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate 
 - Improved contextual understanding and multi-source response synthesis
 - [View Project](link_to_project)
 
-## 📊 GitHub Stats
-
-![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav16997&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav16997&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurav16997&theme=radical)
 
 ## 🤝 Connect with Me
 
