@@ -44,7 +44,7 @@ Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate 
 ![Amazon](https://img.shields.io/badge/-Amazon-FF9900?style=flat&logo=Amazon&logoColor=white)
 - Conducted EDA on Amazon's datasets
 - Potential to improve overall sales performance by 20%
-- [View Project]((https://github.com/saurav16997/Data-Driven-Insights-into-Consumer-Behavior-and-Sales))
+- [View Project]([https://github.com/saurav16997/Predicting-Breast-Cancer-using-Data-Mining)](https://github.com/saurav16997/Data-Driven-Insights-into-Consumer-Behavior-and-Sales)
 
 ### 2. Predicting Student Dropout and Academic Success
 ![DataRobot](https://img.shields.io/badge/-DataRobot-13B5EA?style=flat&logo=DataRobot&logoColor=white)
