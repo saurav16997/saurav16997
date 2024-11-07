@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Saurav%20Premkumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Enthusiast%20|%20NYU%20Graduate%20Student&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Saurav%20Premkumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Business%20%26%20Tech%20Enthusiast&descAlignY=51&descAlign=62)
 
 ## 👨‍💻 About Me
 
