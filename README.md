@@ -44,7 +44,7 @@ Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate 
 ![Amazon](https://img.shields.io/badge/-Amazon-FF9900?style=flat&logo=Amazon&logoColor=white)
 - Conducted EDA on Amazon's datasets
 - Potential to improve overall sales performance by 20%
-- [View Project](link_to_project)
+- [View Project]([link_to_project](https://github.com/saurav16997/Data-Driven-Insights-into-Consumer-Behavior-and-Sales))
 
 ### 2. Predicting Student Dropout and Academic Success
 ![DataRobot](https://img.shields.io/badge/-DataRobot-13B5EA?style=flat&logo=DataRobot&logoColor=white)
@@ -58,6 +58,13 @@ Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate 
 - Enhanced chatbot functionality using Google Flan-T5 and ChromaDB
 - Improved contextual understanding and multi-source response synthesis
 - [View Project](link_to_project)
+
+### 4. Breast Cancer Survivability Prediction
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- Developed a comprehensive machine learning pipeline using the SEER database
+- Achieved up to 90.3% accuracy after model optimization
+- [View Project](https://github.com/saurav16997/Predicting-Breast-Cancer-using-Data-Mining)
 
 
 ## 🤝 Connect with Me
