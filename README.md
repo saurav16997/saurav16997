@@ -50,14 +50,14 @@ Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate 
 ![DataRobot](https://img.shields.io/badge/-DataRobot-13B5EA?style=flat&logo=DataRobot&logoColor=white)
 - Analyzed student data to predict dropout and academic success
 - Key insights: Impact of scholarships and course load on graduation rates
-- [View Project](link_to_project)
+
 
 ### 3. CLCMRC Chatbot Enhancement
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 - Enhanced chatbot functionality using Google Flan-T5 and ChromaDB
 - Improved contextual understanding and multi-source response synthesis
-- [View Project](link_to_project)
+
 
 ### 4. Breast Cancer Survivability Prediction
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
