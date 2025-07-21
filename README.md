@@ -2,10 +2,10 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Saurav, a Master's student in Information Systems at NYU, passionate about leveraging data to drive business decisions and create innovative solutions. With a background in Engineering & 4 years of work experience, I'm on a journey to become a hybrid of a data hacker, analyst, communicator, and a trusted advisor, ready to bring my business and analytical skills to solve complex challenges and drive growth.
+Hello! I'm Saurav, with a Masters in Information Systems at NYU, I'm passionate about leveraging data to drive business decisions and create innovative solutions. With a background in Engineering & 4 years of work experience, I'm on a journey to become a hybrid of a data hacker, analyst, communicator, and a trusted advisor, ready to bring my business and analytical skills to solve complex challenges and drive growth.
 
-- 🎓 Pursuing MS in Information Systems at NYU Stern School of Business & Courant School of Mathematical Science
-- 💼 Currently a Teaching Fellow and Research Assistant at NYU Stern School of Business
+- 🎓 Graduated with MS in Information Systems at NYU Stern School of Business & Courant School of Mathematical Science
+- 💼 Currently a Research Assistant at NYU Stern School of Business
 - 🚀 Working on exciting projects involving generative AI and large language models
 - 🌱 Always learning and exploring new technologies in the data science realm
 
