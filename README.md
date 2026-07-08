@@ -54,7 +54,76 @@ I’m especially interested in the space where **data gives structure to messy p
 
 ## 🚀 Featured AI Engineering Projects
 
-### 1. Pharma MCP Server  
+
+### 1. AI Digital Twin  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
+![LLM App](https://img.shields.io/badge/-LLM%20App-7B68EE?style=flat&logoColor=white)
+
+Built a deployed AI twin that answers recruiter-style questions about my background, projects, experience, and career context. The goal was to turn my profile into an interactive assistant that can handle common screening conversations and notify me when it receives a question it cannot answer.
+
+- Answers questions using my own career and project context
+- Designed for recruiter-style interactions and portfolio discovery
+- Sends a notification when the AI encounters an unknown question
+- Turns a static profile into an always-available AI interface
+
+[View Project](https://huggingface.co/spaces/Saurav169/twin)
+
+---
+
+### 2. Multi-Agent Deep Research  
+![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-6D28D9?style=flat&logoColor=white)
+
+Built a multi-agent research system that takes a user question, plans the research process, runs searches, synthesizes findings, and produces a structured long-form report. The project mimics a frontier-style deep research workflow using specialized agents for planning, searching, writing, and delivery.
+
+- Uses planner, search, writer, and email agents
+- Breaks open-ended research questions into executable subtasks
+- Synthesizes search results into structured research reports
+- Supports end-to-end research automation from question to final output
+
+[View Project](https://huggingface.co/spaces/Saurav169/deep_research)
+
+---
+
+### 3. Automated Sales Agentic Coordination  
+![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Agent Handoffs](https://img.shields.io/badge/-Agent%20Handoffs-0F766E?style=flat&logoColor=white)
+![Sales Automation](https://img.shields.io/badge/-Sales%20Automation-FF6F00?style=flat&logoColor=white)
+
+Built an agentic outbound-sales workflow that coordinates multiple AI agents to research prospects, generate tailored outreach, and manage role-specific handoffs. The project demonstrates how AI agents can automate parts of a GTM workflow while preserving structure, context, and control.
+
+- Uses agent coordination and handoffs for sales-email generation
+- Automates prospect research and tailored message creation
+- Demonstrates multi-step workflow orchestration with LLM agents
+- Built around a fictional compliance product, ComplAI
+
+[View Project](https://github.com/saurav16997/Automated-Sales-Agentic-Coordination-e-mails)
+
+---
+
+### 4. CrewAI Multi-Agent Workflow  
+![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-6D28D9?style=flat&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/-Workflow%20Automation-2563EB?style=flat&logoColor=white)
+
+Built a CrewAI-based multi-agent workflow where specialized agents collaborate on a task, divide responsibilities, pass context between roles, and produce a structured final output. The project focuses on practical agent orchestration rather than a single-prompt demo.
+
+- Defines role-based agents with clear responsibilities
+- Coordinates multi-step task execution through CrewAI
+- Produces structured outputs from collaborative agent workflows
+- Demonstrates how agent teams can automate research, analysis, or business tasks
+
+[View Project](https://github.com/saurav16997/Stock-Picker-using-Crew-AI)
+
+---
+
+### 5. Pharma MCP Server  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-111827?style=flat&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/-FastMCP-0F766E?style=flat&logoColor=white)
@@ -70,7 +139,7 @@ Built a FastMCP server that exposes FDA pharmaceutical data to MCP-compatible LL
 
 ---
 
-### 2. AI Brochure Generator  
+### 6. AI Brochure Generator  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6F00?style=flat&logoColor=white)
@@ -86,7 +155,7 @@ Built an AI workflow that analyzes a company website, selects relevant pages, sc
 
 ---
 
-### 3. YouTube Playlist Transcription with OpenAI Whisper  
+### 7. YouTube Playlist Transcription with OpenAI Whisper  
 ![OpenAI Whisper](https://img.shields.io/badge/-OpenAI%20Whisper-10A37F?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Automation-2C3E50?style=flat&logoColor=white)
@@ -99,21 +168,6 @@ Built a workflow to transcribe an entire YouTube playlist using OpenAI Whisper a
 
 [View Project](https://github.com/saurav16997/Transcription-using-OpenAI-Whisper)
 
----
-
-### 4. Job Scraper App  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3B82F6?style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
-
-Built a FastAPI web application that scrapes job listings from company career portals based on keyword and location, then stores the results as JSON files.
-
-- Backend scraping logic using Python, FastAPI, BeautifulSoup, and Requests
-- Frontend built with HTML, Bootstrap, and JavaScript
-- Designed to be extendable across multiple company career pages
-
-[View Project](https://github.com/saurav16997/job-scraper-app)
 
 ---
 
