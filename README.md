@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Saurav%20Premkumar&fontSize=84&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20%7C%20MCP%20%7C%20Data%20Systems&descAlignY=52&descAlign=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Saurav%20&fontSize=84&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20%7C%20MCP%20%7C%20Data%20Systems&descAlignY=52&descAlign=60)
 
 ## 👋 About Me
 
