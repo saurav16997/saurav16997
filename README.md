@@ -89,7 +89,27 @@ Built a multi-agent research system that takes a user question, plans the resear
 
 ---
 
-### 3. Automated Sales Agentic Coordination  
+### 3. Autonomous Engineering Team using CrewAI  
+![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-111827?style=flat&logoColor=white)
+
+Built an autonomous AI engineering team using CrewAI that takes a plain-English product brief and turns it into a working full-stack application. Four agents collaborate like a small software team: an Engineering Lead designs the system, a Backend Engineer writes the core Python logic, a Frontend Engineer builds a Gradio UI, and a Test Engineer writes and runs unit tests until the application passes.
+
+- Uses four role-based CrewAI agents across design, backend, frontend, and QA
+- Generates a trading account simulator with deposits, withdrawals, share trading, portfolio valuation, P/L, holdings, and transaction history
+- Produces backend code, a Gradio frontend, architecture docs, tests, and a QA summary inside a shared sandbox
+- Runs agent-written code in an isolated Docker + uv environment for safer execution
+- Integrates Context7 MCP so agents can reference current Gradio documentation while building the UI
+
+[View Project](https://github.com/saurav16997/Autonomous-Engineering-Team-using-CrewAI)
+
+---
+
+### 4. Automated Sales Agentic Coordination  
 ![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Agent Handoffs](https://img.shields.io/badge/-Agent%20Handoffs-0F766E?style=flat&logoColor=white)
@@ -106,7 +126,7 @@ Built an agentic outbound-sales workflow that coordinates multiple AI agents to 
 
 ---
 
-### 4. CrewAI Multi-Agent Workflow  
+### 5. CrewAI Multi-Agent Workflow  
 ![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6D28D9?style=flat&logoColor=white)
@@ -123,7 +143,7 @@ Built a CrewAI-based multi-agent workflow where specialized agents collaborate o
 
 ---
 
-### 5. Pharma MCP Server  
+### 6. Pharma MCP Server  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-111827?style=flat&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/-FastMCP-0F766E?style=flat&logoColor=white)
@@ -139,7 +159,7 @@ Built a FastMCP server that exposes FDA pharmaceutical data to MCP-compatible LL
 
 ---
 
-### 6. AI Brochure Generator  
+### 7. AI Brochure Generator  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6F00?style=flat&logoColor=white)
@@ -155,7 +175,7 @@ Built an AI workflow that analyzes a company website, selects relevant pages, sc
 
 ---
 
-### 7. YouTube Playlist Transcription with OpenAI Whisper  
+### 8. YouTube Playlist Transcription with OpenAI Whisper  
 ![OpenAI Whisper](https://img.shields.io/badge/-OpenAI%20Whisper-10A37F?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Automation-2C3E50?style=flat&logoColor=white)
@@ -173,7 +193,7 @@ Built a workflow to transcribe an entire YouTube playlist using OpenAI Whisper a
 
 ## 📊 Data & Analytics Projects
 
-### 5. Marketing Funnel Analysis & A/B Testing  
+### 9. Marketing Funnel Analysis & A/B Testing  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
@@ -190,7 +210,7 @@ Analyzed eCommerce event-level behavioral data to diagnose funnel drop-offs and 
 
 ---
 
-### 6. Data-Driven Insights into Consumer Behavior and Sales  
+### 10. Data-Driven Insights into Consumer Behavior and Sales  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-2563EB?style=flat&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/-Marketing%20Analytics-FF6B6B?style=flat&logoColor=white)
