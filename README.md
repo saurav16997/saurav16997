@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi, I'm an AI/data engineer with 4 years of experience across analytics, BI, data systems, and AI-adjacent workflows, plus an M.S. in Information Systems from **NYU Stern & Courant**.
+Hi, I'm an AI/data engineer with 5 years of experience across analytics, BI, data systems, and AI-adjacent workflows, plus an M.S. in Information Systems from **NYU**.
 
 I like building practical AI systems that connect language models with real tools, data, APIs, and business workflows. My recent work focuses on **LLM applications, RAG, MCP servers, agentic tooling, data pipelines, analytics engineering, and AI-powered automation**.
 
