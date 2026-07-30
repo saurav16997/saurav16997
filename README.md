@@ -54,8 +54,26 @@ I’m especially interested in the space where **data gives structure to messy p
 
 ## 🚀 Featured AI Engineering Projects
 
+### 1. AI Marketing Spend Analyst  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat&logoColor=black)
+![Agents SDK](https://img.shields.io/badge/-Agents%20SDK-10A37F?style=flat&logoColor=white)
 
-### 1. AI Digital Twin  
+Built an AI marketing analyst that lets operators ask plain-English questions about campaign spend and performance. The agent inspects the uploaded dataset, writes read-only SQL, runs it safely, and returns a business-style answer with assumptions, caveats, and evidence citations — so decisions are transparent, not black-box guesses.
+
+- Turns campaign CSV data into an interactive analyst for marketing ops
+- Writes and executes read-only SQL for ROAS, CPA, CTR, CVR, and channel rollups
+- Wraps results into clear biz-style recommendations with assumptions and caveats
+- Cites every important claim with evidence IDs so answers stay data-backed and auditable
+
+[View Project](https://github.com/saurav16997/AI-marketing-spent-analyst)
+
+---
+
+
+### 2. AI Digital Twin  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
@@ -72,7 +90,7 @@ Built a deployed AI twin that answers recruiter-style questions about my backgro
 
 ---
 
-### 2. Multi-Agent Deep Research  
+### 3. Multi-Agent Deep Research  
 ![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
@@ -89,7 +107,7 @@ Built a multi-agent research system that takes a user question, plans the resear
 
 ---
 
-### 3. Autonomous Engineering Team using CrewAI  
+### 4. Autonomous Engineering Team using CrewAI  
 ![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -109,7 +127,7 @@ Built an autonomous AI engineering team using CrewAI that takes a plain-English 
 
 ---
 
-### 4. Automated Sales Agentic Coordination  
+### 5. Automated Sales Agentic Coordination  
 ![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Agent Handoffs](https://img.shields.io/badge/-Agent%20Handoffs-0F766E?style=flat&logoColor=white)
@@ -126,7 +144,7 @@ Built an agentic outbound-sales workflow that coordinates multiple AI agents to 
 
 ---
 
-### 5. CrewAI Multi-Agent Workflow  
+### 6. CrewAI Multi-Agent Workflow  
 ![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6D28D9?style=flat&logoColor=white)
@@ -143,7 +161,7 @@ Built a CrewAI-based multi-agent workflow where specialized agents collaborate o
 
 ---
 
-### 6. Pharma MCP Server  
+### 7. Pharma MCP Server  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-111827?style=flat&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/-FastMCP-0F766E?style=flat&logoColor=white)
@@ -159,7 +177,7 @@ Built a FastMCP server that exposes FDA pharmaceutical data to MCP-compatible LL
 
 ---
 
-### 7. AI Brochure Generator  
+### 8. AI Brochure Generator  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6F00?style=flat&logoColor=white)
@@ -175,7 +193,7 @@ Built an AI workflow that analyzes a company website, selects relevant pages, sc
 
 ---
 
-### 8. YouTube Playlist Transcription with OpenAI Whisper  
+### 9. YouTube Playlist Transcription with OpenAI Whisper  
 ![OpenAI Whisper](https://img.shields.io/badge/-OpenAI%20Whisper-10A37F?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Automation-2C3E50?style=flat&logoColor=white)
@@ -193,7 +211,7 @@ Built a workflow to transcribe an entire YouTube playlist using OpenAI Whisper a
 
 ## 📊 Data & Analytics Projects
 
-### 9. Marketing Funnel Analysis & A/B Testing  
+### 10. Marketing Funnel Analysis & A/B Testing  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
@@ -210,7 +228,7 @@ Analyzed eCommerce event-level behavioral data to diagnose funnel drop-offs and 
 
 ---
 
-### 10. Data-Driven Insights into Consumer Behavior and Sales  
+### 11. Data-Driven Insights into Consumer Behavior and Sales  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-2563EB?style=flat&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/-Marketing%20Analytics-FF6B6B?style=flat&logoColor=white)
