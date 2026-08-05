@@ -75,6 +75,27 @@ Built a full-stack SaaS demo that generates pitch-ready AI-agent business ideas 
 
 ---
 
+### • MediNotes Pro — AI Clinical Documentation Assistant  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
+
+Built a full-stack healthcare SaaS demo that turns raw consultation notes into clinical documentation in real time. Doctors sign in, enter patient name, visit date, and notes, then watch AI stream a visit summary, next steps, and a patient-friendly email draft — a usable product flow, not a static chatbot dump.
+
+- Ships a Next.js + Clerk frontend with an authenticated consultation workspace and date picker
+- Protects a FastAPI `POST /api` endpoint with Clerk JWT verification and a Pydantic `Visit` payload
+- Streams OpenAI completions over SSE so documentation appears token-by-token as live markdown
+- Uses a clinical system prompt that returns three clear sections: doctor summary, next steps, and patient email
+
+[Live Demo](https://saas-kappa-sepia.vercel.app) · [View Project](https://github.com/saurav16997/MediNotes-Pro-AI-Clinical-Documentation-Assistant)
+
+---
+
 ### • AI Marketing Spend Analyst  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
