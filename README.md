@@ -71,7 +71,7 @@ Built a full-stack SaaS demo that generates pitch-ready AI-agent business ideas 
 - Streams completions over SSE so ideas appear token-by-token and render as live markdown
 - Uses a custom IdeaSpark system prompt to keep outputs bold, specific, and founder-ready
 
-[Live Demo](https://saas-kappa-sepia.vercel.app) · [View Project](https://github.com/saurav16997/IdeaGen-AI-Agent-Business-Idea-Generator)
+[Live Demo](https://ideagen-opal.vercel.app) · [View Project](https://github.com/saurav16997/IdeaGen-AI-Agent-Business-Idea-Generator)
 
 ---
 
