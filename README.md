@@ -54,7 +54,28 @@ I’m especially interested in the space where **data gives structure to messy p
 
 ## 🚀 Featured AI Engineering Projects
 
-### 1. AI Marketing Spend Analyst  
+### • IdeaGen — AI Agent Business Idea Generator  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
+
+Built a full-stack SaaS demo that generates pitch-ready AI-agent business ideas in real time. Users sign in, hit the app, and watch a structured startup concept stream in live — name, hook, customer, agent workflow, monetization, unfair advantage, and a 30-day launch sprint — so visitors get a product experience, not a static chatbot dump.
+
+- Ships a Next.js + Clerk frontend with authenticated access to the idea workspace
+- Protects a FastAPI `/api` endpoint with Clerk JWT verification before calling OpenAI
+- Streams completions over SSE so ideas appear token-by-token and render as live markdown
+- Uses a custom IdeaSpark system prompt to keep outputs bold, specific, and founder-ready
+
+[Live Demo](https://saas-kappa-sepia.vercel.app) · [View Project](https://github.com/saurav16997/IdeaGen-AI-Agent-Business-Idea-Generator)
+
+---
+
+### • AI Marketing Spend Analyst  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
@@ -73,7 +94,7 @@ Built an AI marketing analyst that lets operators ask plain-English questions ab
 ---
 
 
-### 2. AI Digital Twin  
+### • AI Digital Twin  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
@@ -90,7 +111,7 @@ Built a deployed AI twin that answers recruiter-style questions about my backgro
 
 ---
 
-### 3. Multi-Agent Deep Research  
+### • Multi-Agent Deep Research  
 ![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
@@ -107,7 +128,7 @@ Built a multi-agent research system that takes a user question, plans the resear
 
 ---
 
-### 4. Autonomous Engineering Team using CrewAI  
+### • Autonomous Engineering Team using CrewAI  
 ![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -127,7 +148,7 @@ Built an autonomous AI engineering team using CrewAI that takes a plain-English 
 
 ---
 
-### 5. Automated Sales Agentic Coordination  
+### • Automated Sales Agentic Coordination  
 ![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Agent Handoffs](https://img.shields.io/badge/-Agent%20Handoffs-0F766E?style=flat&logoColor=white)
@@ -144,7 +165,7 @@ Built an agentic outbound-sales workflow that coordinates multiple AI agents to 
 
 ---
 
-### 6. CrewAI Multi-Agent Workflow  
+### • CrewAI Multi-Agent Workflow  
 ![CrewAI](https://img.shields.io/badge/-CrewAI-111827?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6D28D9?style=flat&logoColor=white)
@@ -161,7 +182,7 @@ Built a CrewAI-based multi-agent workflow where specialized agents collaborate o
 
 ---
 
-### 7. Pharma MCP Server  
+### • Pharma MCP Server  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-111827?style=flat&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/-FastMCP-0F766E?style=flat&logoColor=white)
@@ -177,7 +198,7 @@ Built a FastMCP server that exposes FDA pharmaceutical data to MCP-compatible LL
 
 ---
 
-### 8. AI Brochure Generator  
+### • AI Brochure Generator  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6F00?style=flat&logoColor=white)
@@ -193,7 +214,7 @@ Built an AI workflow that analyzes a company website, selects relevant pages, sc
 
 ---
 
-### 9. YouTube Playlist Transcription with OpenAI Whisper  
+### • YouTube Playlist Transcription with OpenAI Whisper  
 ![OpenAI Whisper](https://img.shields.io/badge/-OpenAI%20Whisper-10A37F?style=flat&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Automation-2C3E50?style=flat&logoColor=white)
@@ -211,7 +232,7 @@ Built a workflow to transcribe an entire YouTube playlist using OpenAI Whisper a
 
 ## 📊 Data & Analytics Projects
 
-### 10. Marketing Funnel Analysis & A/B Testing  
+### • Marketing Funnel Analysis & A/B Testing  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
@@ -228,7 +249,7 @@ Analyzed eCommerce event-level behavioral data to diagnose funnel drop-offs and 
 
 ---
 
-### 11. Data-Driven Insights into Consumer Behavior and Sales  
+### • Data-Driven Insights into Consumer Behavior and Sales  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-2563EB?style=flat&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/-Marketing%20Analytics-FF6B6B?style=flat&logoColor=white)
