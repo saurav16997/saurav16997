@@ -54,6 +54,23 @@ I’m especially interested in the space where **data gives structure to messy p
 
 ## 🚀 Featured AI Engineering Projects
 
+### • AI Digital Twin  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
+![LLM App](https://img.shields.io/badge/-LLM%20App-7B68EE?style=flat&logoColor=white)
+
+Built a deployed AI twin that answers recruiter-style questions about my background, projects, experience, and career context. The goal was to turn my profile into an interactive assistant that can handle common screening conversations and notify me when it receives a question it cannot answer.
+
+- Answers questions using my own career and project context
+- Designed for recruiter-style interactions and portfolio discovery
+- Sends a notification when the AI encounters an unknown question
+- Turns a static profile into an always-available AI interface
+
+[View Project](https://d2rpe5s1p9y2o8.cloudfront.net/)
+
+---
+
 ### • IdeaGen — AI Agent Business Idea Generator  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
@@ -115,22 +132,6 @@ Built an AI marketing analyst that lets operators ask plain-English questions ab
 ---
 
 
-### • AI Digital Twin  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat&logoColor=white)
-![LLM App](https://img.shields.io/badge/-LLM%20App-7B68EE?style=flat&logoColor=white)
-
-Built a deployed AI twin that answers recruiter-style questions about my background, projects, experience, and career context. The goal was to turn my profile into an interactive assistant that can handle common screening conversations and notify me when it receives a question it cannot answer.
-
-- Answers questions using my own career and project context
-- Designed for recruiter-style interactions and portfolio discovery
-- Sends a notification when the AI encounters an unknown question
-- Turns a static profile into an always-available AI interface
-
-[View Project](https://huggingface.co/spaces/Saurav169/twin)
-
----
 
 ### • Multi-Agent Deep Research  
 ![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat&logo=OpenAI&logoColor=white)
